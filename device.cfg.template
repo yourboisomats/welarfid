@@ -1,0 +1,42 @@
+
+[zkteco]
+ip = 192.168.88.138
+port = 4370
+
+[frappe]
+url = https://mochp.tailerp.com
+username = Administrator
+password = qwerty
+
+[mqtt]
+url = localhost
+username = device
+password = qwerty
+
+[devices]
+1567145 = IN
+608090 = OUT
+
+[sms]
+enable = 0
+type = chat
+mobile_numbers = 09176777729, 09177111126
+message_in = {name} is {direction} at {time}
+message_out = {name} ni uli na {direction} at {time}
+
+[display]
+label_lunch_com_size = 25
+label_sec_ID = 20
+label_username = 40
+label_user_sec_ID = 35
+image_user_size = 350
+image_logo = logo.png
+font_family = Arial
+label_font = size:20
+name_font = size:80,weight:bold
+value_font = size:20,weight:bold
+status_font = size:6
+time_font = size:25,weight:bold
+lunch_font = size:25,weight:bold
+commuter_font = size:25,weight:bold
+distance = 10
