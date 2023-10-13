@@ -1,0 +1,21 @@
+Pillow
+sqlalchemy
+pyuserinput
+#git clone https://github.com/frappe/frappe-client.git
+#git clone https://github.com/duxingkei33/orangepi_PC_gpio_pyH3.git
+#git clone https://github.com/lthiery/SPI-Py.git
+
+# apt-get install python-xlib
+# apt-get install python-tk
+# apt-get install python-pip
+# apt-get build-dep python-imaging
+# apt-get install memcached python-memcache
+# apt-get install monit
+# apt-get install unclutter
+# apt-get install xscreensaver
+# apt-get install xdotool
+# apt-get install libpython-all-dev
+
+# for desktop
+# =====================
+# chmod 666 spidev0.0
